@@ -39,6 +39,15 @@ Recommend new books based on user reading preferences using:
 Handle recommendation scenarios where users or books have little to no interaction history using popularity-based recommendation strategies.
 
 ---
+# Problems Which can Solved using this dataset later
+## Book completion Pred
+## chrun rate/ drop off rate
+## User Segmentation 
+## Personalized chapter Recommendation
+
+---
+
+
 
 # Dataset
 
