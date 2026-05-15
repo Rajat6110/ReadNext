@@ -3,6 +3,7 @@
 ## Project Overview
 
 ReadNext is a hybrid recommendation system designed to solve multiple recommendation problems related to sequential reading behavior.
+Video Overview - https://www.loom.com/share/a92f7a9bd7cb4e8b8f1fba6257079eb5
 
 The system combines:
 
